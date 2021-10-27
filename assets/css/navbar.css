@@ -17,6 +17,7 @@
     color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
+    height: 40px;
     text-decoration: none;
 }
 
@@ -26,7 +27,7 @@
 }
 
 .contentroot {
-    margin-top: 30px;
+    margin-top: 45px;
 }
 
 .navbar .navbar-home {
