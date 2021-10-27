@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+	
+        <title>Home - Shooting Range Simulator</title>
+		
+		<link rel="stylesheet" href="assets/css/index.css">
+        <link rel="icon" href="assets/images/icon.png">
+		
+        <script src="assets/js/jquery.min.js"></script>
+		
+        <meta charset="UTF-8">
+        <meta name="author" content="Professional Debil">
+        <meta name="description" content="Shooting Range Simulator website">
+        <meta name="keywords" content="Shooting Range Simulator, Shooting Range Sim">
+		
+    </head>
+    <body style="
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+    ">	
+				
+        <script type="text/javascript" src="assets/js/index.js"></script>
+    </body>
+</html>
